@@ -1,0 +1,357 @@
+.B55 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+
+    top: 168px;
+
+    font-family: 'MuseoModerno';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.03em;
+
+
+
+    color: #101821;
+
+    opacity: 0.3;
+}
+
+.P55 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+
+
+    font-family: 'MuseoModerno';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    /* Black */
+
+    color: #101821;
+}
+
+.P155 {
+    left: 332px;
+    top: 168px;
+
+}
+
+.P255 {
+    left: 20px;
+    top: 216px;
+}
+
+.P355 {
+    left: 72px;
+    top: 216px;
+}
+
+.P455 {
+    left: 124px;
+    top: 216px;
+}
+
+.P555 {
+    left: 176px;
+    top: 216px;
+}
+
+.P655 {
+    left: 228px;
+    top: 216px;
+}
+
+.P755 {
+    left: 280px;
+    top: 216px;
+}
+
+.P855 {
+    left: 332px;
+    top: 216px;
+}
+
+.P955 {
+    left: 20px;
+    top: 264px;
+}
+
+.P1055 {
+    left: 72px;
+    top: 264px;
+}
+
+
+
+
+
+
+.P1255 {
+    left: 176px;
+    top: 264px;
+}
+
+.P1355 {
+    left: 228px;
+    top: 264px;
+}
+
+.P1455 {
+    left: 280px;
+    top: 264px;
+}
+
+.P1555 {
+    left: 332px;
+    top: 264px;
+}
+
+.P1655 {
+    left: 20px;
+    top: 312px;
+}
+
+.P1755 {
+    left: 72px;
+    top: 312px;
+}
+
+.P1855 {
+    left: 124px;
+    top: 312px;
+}
+
+.P1955 {
+    left: 176px;
+    top: 312px;
+}
+
+.P2055 {
+    left: 229px;
+    top: 312px;
+}
+
+.P2155 {
+    left: 280px;
+    top: 312px;
+}
+
+.P2255 {
+    left: 332px;
+    top: 312px;
+}
+
+.P2355 {
+    left: 20px;
+    top: 360px;
+}
+
+.P2455 {
+    left: 72px;
+    top: 360px;
+}
+
+.P2555 {
+    position: absolute;
+    top: 366px;
+    left: 110px;
+    width: 48px;
+    height: 48px;
+    background: #FF602E;
+    border-radius: 12px;
+}
+
+.P25555 {
+    position: absolute;
+    top: 8px;
+    left: 9px;
+    width: 32px;
+    height: 32px;
+    font-family: 'MuseoModerno';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 38px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+}
+
+.rohit355 {
+    margin-left: 7px;
+    color: #FF602E;
+    width: 35px;
+    height: 35px;
+
+}
+
+.P2655 {
+    left: 176px;
+    top: 360px;
+}
+
+.P2755 {
+    left: 228px;
+    top: 360px;
+}
+
+.P2855 {
+    left: 280px;
+    top: 360px;
+}
+
+.P2955 {
+    left: 332px;
+    top: 360px;
+}
+
+.P3055 {
+    left: 20px;
+    top: 408px;
+}
+
+.P3155 {
+    left: 72px;
+    top: 408px;
+}
+
+.B155 {
+    left: 124px;
+    top: 408px;
+}
+
+.B255 {
+    left: 176px;
+    top: 408px;
+}
+
+.B355 {
+    left: 228px;
+    top: 408px;
+}
+
+.B455 {
+    left: 280px;
+    top: 408px;
+}
+
+.B555 {
+    left: 332px;
+    top: 408px;
+}
+.Today{
+    position: absolute;
+    top: 482px;
+    left: 20px;
+    width: 336px;
+    height: 24px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+
+/* Black */
+
+color: #101821;
+
+}
+.Debit{
+    position: absolute;
+    top: 524px;
+    left: 68px;
+    width: 288px;
+    height: 64px;
+    background: #FF602E;
+border-radius: 12px;
+cursor: pointer;
+}
+.Debit1{
+    position: absolute;
+    top: 16px;
+    left: 20px;
+    width: 264px;
+    height: 32px;
+    
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+align-items: center;
+
+/* White */
+
+color: #FFFFFF;
+}
+
+.circle{
+    position: absolute;
+    top: 530px;
+    left: 14px;
+    width: 45px;
+    height: 45px;
+    border: 2px solid #FF602E;
+    border-radius: 50%;
+
+}
+.percent{
+    position: absolute;
+    left: 2px;
+    top: 8px;
+    width: 41px;
+    height: 30px;
+    
+}
+.percent1{
+    position: absolute;
+    left: 7px;
+    bottom: -1.5px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #FF602E;
+}
+
+.circle66{
+    position: absolute;
+    top: 23px;
+    left: 1px;
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: #3F8CFF;
+}
+.Y1{
+    left: 10px;
+}
+.Z1{
+    left: 19px;
+    background: #FF602E;
+}

@@ -1,0 +1,50 @@
+.box8{
+    position: absolute;
+    top: 168px;
+    left: 19px;
+    width: 337px;
+    height: 260px;
+    background: #FF602E;
+box-shadow: 0px 8px 40px rgba(255, 96, 46, 0.4);
+border-radius: 12px;
+    
+}
+.invite8{
+    position: absolute;
+    top: 50px;
+    left: 20px;
+    width: 297px;
+    height: 30px;
+    
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+align-items: center;
+
+/* White */
+
+color: #FFFFFF;
+
+}
+.image8{
+    position: absolute;
+    top: 95px;
+    left: 100px;
+    border-radius: 50%;
+
+}
+.cross8{
+    position: absolute;
+    top: 7px;
+    left: 300px;
+    cursor: pointer;
+    
+}
+.cross88{
+    color: #FFFFFF;
+    width: 30px;
+    height: 30px;
+}

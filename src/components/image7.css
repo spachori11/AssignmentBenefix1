@@ -1,0 +1,254 @@
+.majorbox {
+    position: absolute;
+    top: 168px;
+    left: 68px;
+    width: 288px;
+    height: 493px;
+    background: #FF602E;
+    box-shadow: 0px 8px 40px rgba(255, 96, 46, 0.4);
+    border-radius: 12px;
+}
+
+.Iccilast {
+    position: absolute;
+    top: 30.34px;
+    left: 20px;
+    width: 224px;
+    height: 60.68px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+
+    /* White */
+
+    color: #FFFFFF;
+
+}
+
+.Offer {
+    position: absolute;
+    top: 395.88px;
+    left: 88px;
+    width: 228px;
+    height: 108.08px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+
+    /* White */
+
+    color: #FFFFFF;
+}
+
+.des {
+    position: absolute;
+    top: 350.37px;
+    left: 88px;
+    width: 228px;
+    height: 30.34px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+
+    /* White */
+
+    color: #FFFFFF;
+
+    opacity: 0.6;
+}
+
+.button7 {
+    position: absolute;
+    top: 497px;
+    left: 88px;
+    width: 104px;
+    height: 48px;
+    background: #ECEEF1;
+    box-shadow: -8px -8px 20px #FF602E, 8px 8px 20px #FF602E;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.button71 {
+    position: absolute;
+    top: 9px;
+    left: 7px;
+    width: 90px;
+    height: 30px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FF3D00;
+    padding-left: 28px;
+    opacity: 0.6;
+}
+.edit7{
+    position: absolute;
+    top: 623.5px;
+    left: 78px;
+    width: 60px;
+    height: 25px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+text-align: center;
+padding-left: 19px;
+
+color: #FFFFFF;
+}
+.Reminder7{
+    position: absolute;
+    top: 443px;
+    left: 149px;
+    width: 139px;
+    height: 50px;
+    background: #ECF0F3;
+opacity: 0.2;
+border-radius: 12px 0px;
+}
+.Reminder71{
+    position: absolute;
+    top: 456px;
+    left: 184px;
+    width: 112px;
+    height: 24px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+text-align: center;
+
+/* White */
+
+color: #FFFFFF;
+
+    
+}
+ .Amazon7{
+     position: absolute;
+     top: 121px;
+     left: 68px;
+     width: 176px;
+     height: 46px;
+     
+ }
+ .Amazon71{
+    position: absolute;
+    top: 13px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    
+    justify-content: center;
+    
+    /* White */
+    
+    color: #FFFFFF;
+    
+ }
+ .location7{
+     position: absolute;
+     top: 126.75px;
+     left: 29.17px;
+     width: 25.67px;
+     height: 32.58px;
+     
+ }
+ .location71{
+     position: absolute;
+     width: 25.67px;
+     height: 32.58px;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%,-50%);
+ }
+
+ .date7{
+     position: absolute;
+     top: 124px;
+     left: 20px;
+     width: 336px;
+     height: 24px;
+     
+     font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+
+/* Black */
+
+color: #101821;
+ }
+
+ .circle7{
+    position: absolute;
+    top: 182px;
+    left: 14px;
+    width: 45px;
+    height: 45px;
+    border: 2px solid #FF602E;
+    border-radius: 50%;
+
+}
+.percent7{
+    position: absolute;
+    
+    width: 41px;
+    height: 30px;
+    
+}
+.percent7{
+    position: absolute;
+    left: 1px;
+    bottom: 3px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #FF602E;
+}
+
+.angle7{
+    position: absolute;
+    top: 22px;
+    right: 20px;
+    width: 8px;
+    height: 4px;
+    
+}
